@@ -1,6 +1,6 @@
 ***Bonsoir, I’m @scatin***
-- 👀 I’m interested in learning, crypto, eth, algo, python, drawing 
-- 🌱 I’m currently learning web3
+- 👀 I’m interested in learning, crypto, algorand, eth, python, drawing 
+- 🌱 I’m currently exploring the algorand ecosystem
 
 <!---
 scatin/scatin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
